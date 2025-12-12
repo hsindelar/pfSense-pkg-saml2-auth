@@ -42,7 +42,7 @@ pkg delete pfSense-pkg-saml2-auth
 
 > [!NOTE]
 > - When pfSense is updated, this package will be automatically uninstalled. After updating pfSense, the package will need to be reinstalled to match the updated version.
-> - You may need to adjust the package URL above to match your pfSense version (e.g., `pfSense-2.7-pkg-saml2-auth.pkg` for pfSense 2.7.x). Check the [Releases](https://github.com/pfrest/pfSense-pkg-saml2-auth/releases) page for the correct package for your version.
+> - You may need to adjust the package URL above to match your pfSense version (e.g., `pfSense-2.7-pkg-saml2-auth.pkg` for pfSense 2.7.x, or `pfSense-25.11-pkg-saml2-auth.pkg` for pfSense 25.11). Check the [Releases](https://github.com/pfrest/pfSense-pkg-saml2-auth/releases) page for the correct package for your version.
 
 ## Limitations
 
